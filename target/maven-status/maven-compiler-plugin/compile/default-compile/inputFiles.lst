@@ -1,0 +1,8 @@
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\dto\CreateTicketDTO.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\dto\UpdateTicketDTO.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\models\TicketEntity.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\repositories\TicketRepository.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\rest\TicketRest.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\services\implement\TicketServiceImplements.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\services\TicketService.java
+C:\desarrollo\jdc\Spring Boot\TallerDespliegue\src\main\java\com\jdc\tallerdespliegue\TallerDespliegueApplication.java

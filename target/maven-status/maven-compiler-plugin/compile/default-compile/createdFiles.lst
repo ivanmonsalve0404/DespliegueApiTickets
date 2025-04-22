@@ -1,0 +1,8 @@
+com\jdc\tallerdespliegue\repositories\TicketRepository.class
+com\jdc\tallerdespliegue\services\TicketService.class
+com\jdc\tallerdespliegue\rest\TicketRest.class
+com\jdc\tallerdespliegue\dto\UpdateTicketDTO.class
+com\jdc\tallerdespliegue\dto\CreateTicketDTO.class
+com\jdc\tallerdespliegue\services\implement\TicketServiceImplements.class
+com\jdc\tallerdespliegue\TallerDespliegueApplication.class
+com\jdc\tallerdespliegue\models\TicketEntity.class
